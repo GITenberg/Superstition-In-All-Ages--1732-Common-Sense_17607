@@ -38,6 +38,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2420
     wikipedia: http://en.wikipedia.org/wiki/Baron_d'Holbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17607#Superstition-In-All-Ages--1732-Common-Sense
 gutenberg_bookshelf: Atheism
 gutenberg_issued: '2006-01-25'
 gutenberg_type: Text
