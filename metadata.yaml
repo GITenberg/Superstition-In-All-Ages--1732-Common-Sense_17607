@@ -1,0 +1,57 @@
+_repo: Superstition-In-All-Ages--1732-Common-Sense_17607
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, François Marie
+    - Arouet, Francois Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Voltaire
+    - http://fr.wikipedia.org/wiki/Voltaire
+  translator:
+    agent_name: Knoop, Anna
+    deathdate: 1889
+    gutenberg_agent_id: '7486'
+    url: http://www.gutenberg.org/2009/agents/7486
+  unknown_contributor:
+    agent_name: Meslier, Jean
+    birthdate: 1664
+    deathdate: 1729
+    gutenberg_agent_id: '7485'
+    url: http://www.gutenberg.org/2009/agents/7485
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Meslier
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holbach, Paul Henri Thiry, baron d'
+    alias: D'Holbach, Baron
+    birthdate: 1723
+    deathdate: 1789
+    gutenberg_agent_id: '2420'
+    url: http://www.gutenberg.org/2009/agents/2420
+    wikipedia: http://en.wikipedia.org/wiki/Baron_d'Holbach
+description: ''
+gutenberg_bookshelf: Atheism
+gutenberg_issued: '2006-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17607'
+  lccn: '24021578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atheism'
+- !lcc 'BL'
+title: 'Superstition In All Ages (1732)
+
+  Common Sense'
+url: http://www.gutenberg.org/ebooks/17607
